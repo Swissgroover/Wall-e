@@ -1,5 +1,11 @@
        body {
-           background: #5cb85c;
+        position: absolute;
+        width: 1612px;
+        height: 1024px;
+        left: -23px;
+        top: 0px;
+        
+        background: url(wall-e-wallpaper-3.jpg);
        }
        
        .modal {
